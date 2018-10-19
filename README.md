@@ -40,4 +40,4 @@ Our CI infrastructure is hosted by [The Positive Internet Company](http://www.po
 
 Our bottles (binary packages) are hosted by Bintray.
 
-[![Downloads by Bintray](https://bintray.com/docs/images/downloads_by_bintray_96.png)](https://bintray.com/homebrew)
+[![Downloads by Bintray](https://bintray.com/docs/images/downloads_by_bintray_96.png)](https://bintray.com/homebrew) [![GuardRails badge](https://badges.production.guardrails.io/moul/homebrew.svg)](https://www.guardrails.io)
